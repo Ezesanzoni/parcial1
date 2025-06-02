@@ -1,0 +1,145 @@
+.hola{
+    display: flex;
+   margin-bottom: 100px;
+          
+}
+
+
+.info{
+    margin-left: 1000px;
+    color: #f3e8ff;   
+}
+
+
+.info h2{
+    color: white;
+}
+
+
+.estilos{
+    text-align: center;
+    display: flex;
+    justify-content: right;
+    margin-right: 200px;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+    
+.estilos p{
+    text-align: center;  
+}
+
+.estilos h3{
+    text-align: left;
+    margin: 20px;
+}
+
+
+
+
+
+.temporadas{
+    margin-left: px;
+}
+
+   
+.temporadas p{
+    min-width: 100%;
+}
+ 
+
+.sagas{
+    margin-right: 800px;
+    display: flex;
+    margin-left: 0%;
+    margin-top: 10%;
+    text-align: left;
+    margin-bottom: 50px;
+}
+
+.sagas h4{
+    text-align: center;
+    margin-left: 15px;
+    margin: 0%;
+    
+    
+}
+   
+
+   
+
+.eventos h2{
+    text-align: left;
+    margin-left: 20px;
+    margin-top: 100px;
+}
+
+
+
+.imagencuriosidades{
+    text-align: left;
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-bottom: 100px;
+}
+
+
+
+.curiosidades{
+    margin-bottom: 200px;
+    max-width: 200px;
+    display: flex;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+
+.curiosidades p{
+    color: #333;  
+}
+
+.imagenes{
+    margin-right: 50px;
+    background-color: #f3e8ff
+}
+
+
+
+
+.mascuriosidades{
+    background-color: aqua;
+    max-width: 300px;
+    justify-content: center;
+    display: flex;
+    margin-left: 800px;
+}
+
+
+.mascuriosidades h1{
+color: black;
+}
+
+
+
+.redes{
+    background-color: #f3e8ff;
+    margin: 100px;
+    padding: 20px;
+    max-width: 420px;
+    margin-left: 720px;   
+    font-family: "Playfair Display", serif;
+}
+
+
+.plataformas{
+
+background-color: #f3e8ff;
+    margin: 100px;
+    padding: 20px;
+    max-width: 420px;
+    margin-left: 720px;
+    font-family: "Playfair Display", serif;
+}
+
+    
