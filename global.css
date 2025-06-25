@@ -2,6 +2,10 @@ header{
     padding: 50px;
     background-color: black;
     text-align: center;
+    
+    
+    
+    
 }
 
 
@@ -11,6 +15,9 @@ nav{
     flex-direction: row;
     margin: auto;
     height: 75px;
+   
+     
+   
 }
 
 
@@ -18,7 +25,17 @@ nav a{
     color: white;
     padding: 14px 20px;
     text-decoration: none;
+    font-size: 25px;
+    margin: auto;
+    
+    
+    
+
+    
 }
+
+
+
 
 
 body{
@@ -28,6 +45,7 @@ body{
       background-repeat: no-repeat;
       margin: 0%;
       padding: 0%;
+     
        
    }
    
@@ -46,6 +64,10 @@ footer a{
 
 h1{
     color: orange;
+    
+
+    
+
 }
 
 
